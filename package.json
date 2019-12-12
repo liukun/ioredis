@@ -1,6 +1,6 @@
 {
-  "name": "ioredis",
-  "version": "4.15.0",
+  "name": "ioredis-ts",
+  "version": "4.15.1",
   "description": "A robust, performance-focused and full-featured Redis client for Node.js.",
   "main": "built/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/luin/ioredis.git"
+    "url": "git://github.com/liukun/ioredis.git"
   },
   "keywords": [
     "redis",
